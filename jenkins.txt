@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B0F8-E72F
+
+ Directory of C:\Users\user\Desktop\DevOps\Jenkins
+
+31/08/2020  10:39 AM    <DIR>          .
+31/08/2020  10:39 AM    <DIR>          ..
+30/08/2020  10:50 PM         1,610,503 jenkins-book.pdf
+30/08/2020  04:21 PM         3,139,807 jenkins-cli.jar
+30/08/2020  10:50 PM        25,757,176 jenkins-the-definitive-guide.pdf
+31/08/2020  10:39 AM                 0 jenkins.txt
+30/08/2020  01:17 AM        66,477,424 jenkins.war
+30/08/2020  10:16 AM    <DIR>          jenkinsHome
+30/08/2020  01:22 AM                32 pass.txt
+31/08/2020  12:49 AM               109 simplego.go
+31/08/2020  12:42 AM                43 simpleshell.sh
+               8 File(s)     96,985,094 bytes
+               3 Dir(s)  118,428,360,704 bytes free
